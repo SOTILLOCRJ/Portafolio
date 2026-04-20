@@ -1,4 +1,4 @@
-# portafolio
+# Portafolio
 ![Laravel](https://img.shields.io/badge/Laravel-practices-red?logo=laravel)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-practices-purple?logo=bootstrap)
 ![PHP](https://img.shields.io/badge/PHP-practices-blue?logo=php)

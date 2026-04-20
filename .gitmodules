@@ -1,3 +1,6 @@
 [submodule "bootstrapHtmlCss"]
 	path = bootstrapHtmlCss
 	url = https://github.com/SOTILLOCRJ/bootstrapHtmlCss.git
+[submodule "laravel/quiz-game-laravel"]
+	path = laravel/quiz-game-laravel
+	url = https://github.com/SOTILLOCRJ/quiz-game-laravel.git
